@@ -1,0 +1,44 @@
+html {
+	font-size: 10px; 
+	font-family: 'Rasa', serif;
+  }
+  h1 {
+	font-size: 50px;
+	text-align: center;
+	
+  }
+  
+  p, li {
+	font-size: 16
+	px;    
+	line-height: 2;
+	letter-spacing: 1px;
+	color: rgb(24, 29, 25);
+  }
+  html {
+	background-color: rgba(30, 82, 43, 0.822);
+  }
+  body {
+	width: 820px;
+	margin: 0 auto;
+	background-color: rgb(212, 197, 176);
+	padding: 0 20px 20px 20px;
+	border: 8px solid rgb(117, 248, 10);
+  }
+  h1 {
+	margin: 0;
+	padding: 10px 0;    
+	color: rgb(248, 15, 190);
+	text-shadow: 3px 3px 1px black;
+  }
+  /* images */
+img.alignleft {
+	float: left;
+	padding: 8px 20px 0px 0px;
+	background: transparent;
+	border: none;
+}
+img.alignright {float: right; }
+img.aligncenter {	margin: 0px auto; }
+  }
+ 
